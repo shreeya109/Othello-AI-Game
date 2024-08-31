@@ -1,4 +1,4 @@
-# CMSC421_Final -  Othello AI Game
+# Othello AI Game
 
 ## Description
 
